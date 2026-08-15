@@ -1,5 +1,7 @@
 # ttcli — Task Tracker CLI tool
 
+This project is an implementation of the **[Task Tracker Challenge from roadmap.sh](https://roadmap.sh/projects/task-tracker)**.
+
 **ttcli** is a fast, dependency-free command-line interface (CLI) tool designed for tracking and managing your daily tasks. Built entirely using the **Go core standard library**, it requires no external frameworks (like Cobra or Urfave), resulting in instant startup times and high portability.
 
 ---
